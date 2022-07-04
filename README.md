@@ -26,5 +26,5 @@ not experiencing big troubles about using such languages as **Python** or **Java
   
 <h3>Contact me</h3>
 
-Telegram: <a href = "t.me/ncinsli"> @ncinsli </a>   
+Telegram: <a href = "https://t.me/ncinsli"> @ncinsli </a>   
 Email: ncinsli@gmail.com
