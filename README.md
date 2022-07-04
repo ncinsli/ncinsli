@@ -36,9 +36,10 @@ Email: ncinsli@gmail.com
   <img src = "https://user-images.githubusercontent.com/56553344/177145839-3eabfe7d-3a0d-435d-8486-340a49bda976.png \>
 
   <!--   <img alt="Unity" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,h_1200,pg_1,t_base_params,w_1200/v1641570264/blog-post-covers/000/002/158/2158-original.jpg?1641570264" height=100 />
-<!--   <img alt="Zenject" src="https://pbs.twimg.com/profile_images/1379491996763574272/kJBWq3T4_400x400.jpg" height=100 /> -->
+<!-
+-   <img alt="Zenject" src="https://pbs.twimg.com/profile_images/1379491996763574272/kJBWq3T4_400x400.jpg" height=100 /> -->
 <!--   <img alt="UniRX" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/409e7382-0cd2-4236-b9a0-dbffe049d122.jpg" height=100 /> -->
 <!--   <img alt="AR Foundation" src="https://images1.russianblogs.com/218/cb/cba2f1134e3d161f3e7d2a5b20b3a64a.JPEG" height=100 /> -->
 <!--   <img alt="DOTween" src="https://user-images.githubusercontent.com/56553344/177145028-a6dccd58-dbf6-4181-a5d5-f9a7d159bc2d.png" height=100 /> -->
-
+![Снимок](https://user-images.githubusercontent.com/56553344/177146059-3706be55-6a79-489a-b435-6ab0302fbf18.PNG)
 </p>
