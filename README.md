@@ -26,6 +26,5 @@ not experiencing big troubles about using such languages as **Python** or **Java
   
 <h3>Contact me</h3>
 
-Instagram: [@_zotovY](https://www.instagram.com/_zotovY/)   
 Telegram: <a href = "t.me/ncinsli"> @ncinsli </a>   
 Email: ncinsli@gmail.com
