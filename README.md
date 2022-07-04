@@ -32,8 +32,8 @@ Email: ncinsli@gmail.com
 <br> <br>
 
 <p>
-  <img src = "https://user-images.githubusercontent.com/56553344/177145338-f05f04f6-f0c5-4d60-ac82-1330a20c3c70.png" width=200 \>
-  <img src = "https://user-images.githubusercontent.com/56553344/177145839-3eabfe7d-3a0d-435d-8486-340a49bda976.png" width=200 \>
+  <img src = "https://user-images.githubusercontent.com/56553344/177145338-f05f04f6-f0c5-4d60-ac82-1330a20c3c70.png" width=400 \>
+  <img src = "https://user-images.githubusercontent.com/56553344/177145839-3eabfe7d-3a0d-435d-8486-340a49bda976.png" width=400 \>
 
   <!--   <img alt="Unity" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,h_1200,pg_1,t_base_params,w_1200/v1641570264/blog-post-covers/000/002/158/2158-original.jpg?1641570264" height=100 /> -->
 <!--   <img alt="Zenject" src="https://pbs.twimg.com/profile_images/1379491996763574272/kJBWq3T4_400x400.jpg" height=100 /> -->
