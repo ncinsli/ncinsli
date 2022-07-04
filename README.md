@@ -30,4 +30,4 @@ Telegram: <a href = "https://t.me/ncinsli"> @ncinsli </a>
 Email: ncinsli@gmail.com
 
 
-<img alt="Unity" src="https://user-images.githubusercontent.com/56553344/177143202-f957af31-ba0f-4f20-a80b-a851743f6b2a.png" />
+<img alt="Unity" src="https://user-images.githubusercontent.com/56553344/177143354-e8a8aa07-730e-4f65-80c0-a32caf3199fb.png" />
