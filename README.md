@@ -29,5 +29,6 @@ not experiencing big troubles about using such languages as **Python** or **Java
 Telegram: <a href = "https://t.me/ncinsli"> @ncinsli </a>   
 Email: ncinsli@gmail.com
 
+<br> <br>
 
-<img alt="Unity" src="https://user-images.githubusercontent.com/56553344/177143354-e8a8aa07-730e-4f65-80c0-a32caf3199fb.png" />
+<img alt="Unity" src="https://user-images.githubusercontent.com/56553344/177143354-e8a8aa07-730e-4f65-80c0-a32caf3199fb.png" width=100 />
