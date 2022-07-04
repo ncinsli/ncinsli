@@ -31,4 +31,7 @@ Email: ncinsli@gmail.com
 
 <br> <br>
 
-<img alt="Unity" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,h_1200,pg_1,t_base_params,w_1200/v1641570264/blog-post-covers/000/002/158/2158-original.jpg?1641570264" width=100 />
+<p>
+  <img alt="Unity" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,h_1200,pg_1,t_base_params,w_1200/v1641570264/blog-post-covers/000/002/158/2158-original.jpg?1641570264" width=100 />
+  <img alt="Unity" src="https://pbs.twimg.com/profile_images/1379491996763574272/kJBWq3T4_400x400.jpg" width=100 />
+</p>
